@@ -1,0 +1,93 @@
+body {
+  color: black;
+  background-color:white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0;
+}
+    .icon {display: block;
+      width: 70px; height: 70px;}
+.fa-brands{
+       color:white;
+       margin: 5px;
+      }
+hr{border-style: none;
+  background-color:#9ccba3 ;
+   height:2px;}
+   button{
+     background-color: #9ccba3;
+   }
+   .container-fluid{
+     background-color: white;
+   }
+footer{
+    background-color:#9ccba3;
+}
+.MyDiv{
+  background-color: white;
+}
+
+
+.accordion{
+  width: 850px;
+}
+.card{
+  width: 850px;
+}
+.rightpic {
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+   }
+.carousel-inner-overlay{
+  position: absolute;
+  bottom: 50%;
+  left: 35%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+.img-fluid{
+  height: 500px!important;
+}
+.btn-primary:hover {
+   color: white;
+   background-color:#a5d0ac;
+   border-color: #a5d0ac;
+}
+.btn-primary:focus {
+  background-color: #5d7961;
+  border-color: #5d7961;
+  box-shadow: none!important;
+  outline: none !important;
+}
+.badge{
+top:0;
+position:absolute;
+right:0;
+display: inline-block;
+padding: 0.35em 0.65em;
+font-size: 1.1em;
+font-weight: 700;
+line-height: 1;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: 0.25rem;
+}
+.blink {
+  background-color: #c3dfc7;
+  animation: blink 1.5s linear infinite;
+}
+.imgcontainer {
+  float: right;
+ display: inline-block;
+ position: relative;
+}
+a{
+ text-decoration: none;
+}
+.icon {display: block;
+     width: 70px; height: 70p
